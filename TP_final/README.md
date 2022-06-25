@@ -5,7 +5,7 @@ La base de datos de Kannada MNIST contiene imágenes en escala de grises con dí
 | Models pretrain models | Accuracy |
 |------------------------|----------|
 | vgg16                  | 99.025   |
-| wide resnet 50         | 98.433   |
+| wide resnet50          | 98.433   |
 | resnet50               | 98.191   |
 | resnet18               | 98.191   |
 | alexnet                | 96.525   |
